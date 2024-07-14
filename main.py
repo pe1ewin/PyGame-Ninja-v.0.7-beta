@@ -24,7 +24,7 @@ dialog_font = pygame.font.Font('FONTS/dialogs/Qundeasy.ttf', 40)    # Подкл
 interface_font = pygame.font.Font('FONTS/menu/aoudax-cyrillic.otf', 32)  # Подключаем шрифт для интерфейса
 
 # Загрузка звуков и музыки
-menu_music = pygame.mixer.Sound('sounds/music/Gravy Beats - Genkai.mp3')    # Загружаем трек для меню
+menu_music = pygame.mixer.Sound('sounds/music/')    # Загружаем трек для меню
 menu_music.set_volume(0.1)  # Устанавливаем громкость трека для меню
 hero_pain_sound = pygame.mixer.Sound('sounds/hit/hero_pain.mp3')  # Загружаем звук получения урона героем
 hero_pain_sound.set_volume(1)  # Устанавливаем громкость звука
