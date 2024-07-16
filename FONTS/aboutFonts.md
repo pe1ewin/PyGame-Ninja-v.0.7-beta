@@ -3,3 +3,7 @@ Involve. Copyright (c) 2024 by Stefan Peev. Evolventa. Copyright (c) 2016 by Ale
 RBNaftalin Copyright (c) 2009 by Ivan Vasiliev / RockBee. All rights reserved. (Designer URL: www.rockbee.com)
 
 Aoudax Cyrillic Copyright © 2020 William Zhang, © 2021 Denis Ignatov (Designer URL: http://be.net/wlliamzhang; License URL: http://scripts.sil.org/OFL)
+
+Qundeasy (Free for personal use.The license belongs to Tatyana Savchenko (Designer URL: https://www.behance.net/tan-chik))
+
+None of the fonts were used for financial gain.
