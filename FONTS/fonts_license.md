@@ -4,6 +4,6 @@ RBNaftalin Copyright (c) 2009 by Ivan Vasiliev / RockBee. All rights reserved. (
 
 Aoudax Cyrillic Copyright © 2020 William Zhang, © 2021 Denis Ignatov (Designer URL: http://be.net/wlliamzhang; License URL: http://scripts.sil.org/OFL)
 
-Qundeasy (Free for personal use.The license belongs to Tatyana Savchenko (Designer URL: https://www.behance.net/tan-chik))
+Bartina Regular (Designer: Dimitri Antonov)
 
 None of the fonts were used for financial gain.
