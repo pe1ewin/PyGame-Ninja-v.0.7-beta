@@ -20,7 +20,7 @@ pygame.display.set_icon(icon)   # Меняем иконку окна
 
 # Загрузка шрифтов
 menu_font = pygame.font.Font('FONTS/menu/rbnaftalin.otf', 24)   # Подключаем шрифт для меню паузы
-dialog_font = pygame.font.Font('FONTS/dialogs/Qundeasy.ttf', 40)    # Подключаем шрифт для диалогов
+dialog_font = pygame.font.Font('FONTS/dialogs/Bartina Regular.ttf', 38)    # Подключаем шрифт для диалогов
 interface_font = pygame.font.Font('FONTS/menu/aoudax-cyrillic.otf', 32)  # Подключаем шрифт для интерфейса
 
 # Загрузка звуков и музыки
